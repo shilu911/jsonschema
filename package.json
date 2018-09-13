@@ -1,14 +1,10 @@
 {
-  "author": "Tom de Grunt <tom@degrunt.nl>",
-  "name": "jsonschema",
+  "author": "Lu Shi <shilu911@hotmail.com>",
+  "name": "lushidea-jsonschema",
   "version": "1.2.4",
   "license": "MIT",
   "dependencies": {},
-  "contributors": [
-    {
-      "name": "Austin Wright"
-    }
-  ],
+  "contributors": [],
   "main": "./lib",
   "typings": "./lib/index.d.ts",
   "devDependencies": {
